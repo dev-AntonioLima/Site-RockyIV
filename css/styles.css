@@ -15,15 +15,16 @@ margin-right: 20%;
 background-color: rgb(3, 3, 3);
 color:#FFFFFF;
 display: inline-block;
-width: 43%;
-height: 30%;
+width: 29.2%;
+height: 40%;
 text-align: left;
 text-decoration: none;
 font-style: ubuntu;
-font-size: 20px;
+font-size: 18px;
 margin-left: 35%;
 margin-right: 35%;
 }
+
 
 p, li {
 color: #444;
@@ -63,8 +64,8 @@ color: #FFF;
 padding: 1rem .8rem;
 }
   
-.nav-item.active {
-border-bottom: 3px solid #FFF;
+.nav-item.active a {
+color: red;
 }
 
 .footer{
@@ -74,4 +75,43 @@ text-align: center;
 background-color: #000000;
 color:#FFFFFF;
 width: 100%;
+
+}
+.Rockyperso img{
+border-radius: 20px;
+width: 25%;
+height: 25%;
+margin: 10%;
+}
+
+.Rockyperso p{
+text-align: left;
+}
+
+.Dragoperso img{
+border-radius: 20px;
+width: 25%;
+height: 5%;
+margin:  1% 10%;
+}
+
+
+
+.Soundtracks{
+margin-bottom: 5%;
+}
+
+
+.Soundtracks img{
+border-radius: 20px;
+width: 20%;
+height: 20%;
+margin: 10%;
+margin-left: 40%; 
+margin-bottom: 0;
+}
+
+.Soundtracks h3,audio{
+color: rgb(0, 0, 0);
+margin-left: 41%;
 }
