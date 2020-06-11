@@ -1,6 +1,7 @@
-# Site-RockyIV
+# Site Rocky IV
 Site simples do filme Rocky IV, tem como objetivo apresentar trailers, curiosidades e personagens.
 
-<p class="center">
-<img src="captura.png>
+
+<p align="center">
+<img src="img/screen.png" width="">
 </p>
