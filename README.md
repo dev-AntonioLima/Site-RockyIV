@@ -22,7 +22,7 @@ Site simples do filme Rocky IV, tem como objetivo apresentar trailers, curiosida
 04 - Sobre:
 
 <p align="center">
-<img src="img/musicas.png">
+<img src="img/sobre.png">
 </p>
 
 
