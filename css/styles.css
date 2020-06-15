@@ -93,6 +93,9 @@ height: 25%;
 margin:  1% 10%;
 }
 
+
+
+
 .Dragoperso{
 border-radius: 10px;
 background-color: rgba(0, 0, 0, 0.651);
@@ -105,18 +108,41 @@ text-align: center;
 padding: 20px;
 display: inline-block;
 }
-    
+        
 .Dragoperso p{
 text-align: left;
 }
-    
+        
 .Dragoperso img{
 border-radius: 20px;
 width: 40%;
 height: 25%;
 margin:  1% 10%;
 }
-    
+
+.Creedperso{
+border-radius: 10px;
+background-color: rgba(0, 0, 0, 0.651);
+margin-top: 8%;
+margin-bottom: 3%;
+margin-left: 5%;
+margin-right: 50%;
+width: 40%;
+text-align: center;
+padding: 20px;
+display: inline-block;
+}
+            
+.Creedperso p{
+text-align: left;
+}
+            
+.Creedperso img{
+border-radius: 20px;
+width: 30%;
+height: 30%;
+margin:  1% 10%;
+}
 
 
 
