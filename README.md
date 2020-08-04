@@ -1,26 +1,22 @@
 # Site Rocky IV
 Site simples do filme Rocky IV, tem como objetivo apresentar trailers, curiosidades e personagens.
 
- 01 - Início:
-
+<h1>Início<h1>
 <p align="center">
 <img src="img/inicio.png">
 </p>
 
-02 - Personagens:
-
+<h1>Personagens<h1>
 <p align="center">
 <img src="img/personagens.png">
 </p>
 
-03 - Músicas
-
+<h1>Músicas<h1>
 <p align="center">
 <img src="img/musicas.png">
 </p>
 
-04 - Sobre:
-
+<h1>Sobre<h1>
 <p align="center">
 <img src="img/sobre.png">
 </p>
